@@ -62,16 +62,6 @@ At the conclusion of the presentation we will divide into teams and facilitate t
 
 Please bring a laptop, and if you plan to participate in development efforts please bring a laptop with R and R Studio installed.
 
-
-## Background on Vision Zero
-
-Vision Zero Chicago (VZC) is the commitment and approach to eliminating fatalities and serious injuries from traffic crashes.
-
-Much more information is available in the Action Plan, and the City’s website:
-https://www.chicago.gov/city/en/depts/cdot/supp_info/vision-zero-chicago.html
-
-The plan emphasizes reporting and accountability in an transparent manner. To this end, the VZ committee has requested a public facing dashboard that communicates our progress toward Vision Zero goals, which can be referenced internally and externally.
-
 ## The Vision Zero Dashboard
 
 The purpose of the proposed dashboard is to help Vision Zero Chicago achieve its mission, and increase transparency and accountability.
